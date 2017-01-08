@@ -25,7 +25,7 @@
 			<div class="col-md-9 col-xs-12">
 
 				<div class="jumbotron">
-					<h1>Livraria 36</h1>
+					<h1>Livraria 36666</h1>
 					<p>Os melhores livros de tecnologia do Brasil!</p>
 				</div>
 
